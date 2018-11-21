@@ -2,12 +2,12 @@
 
 Honeypots deployed: Only mhn-honeypot-1
 
-###Attacks
+### Attacks
 The first attack I viewd was my own.
 The next one came after about 45min. After that I got about 200 attacks every 2sec or so, from the same IP in China (134.175.134.240).
 I had two U.S attacks after that, before downloading the `json` file and exiting the project.
 
-###Issues
+### Issues
 I ran into an issue in Milestone 2, where the intructions say:
 `$ cd /opt`
 `$ sudo git clone https://github.com/RedolentSun/mhn.git`
